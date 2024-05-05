@@ -83,6 +83,22 @@ p .red{
     width: 15%;
 }
 
+@media screeen and (maxwidth:600 px){
+   h1{
+        font-size: 36px;
+        line-height: 50px;
+   }
+       nav{
+        width: auto;
+        height: 75px;
+        line-height: 75px;
+        padding: 0px 100px;
+        position: -ms-page;
+        background-image: linear-gradient(rgb(35, 23, 117) , rgb(39, 44, 194));
+    
+
+    
+}
    
    
    
